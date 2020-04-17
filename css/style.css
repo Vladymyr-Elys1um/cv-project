@@ -87,7 +87,7 @@ body {
 }
 
 .tech-skills-item {
-  color: #ff6b08;
+  color: rgba(14, 50, 253, 0.938);
   font-family: Montserrat;
   font-size: 14px;
   font-weight: 400;
@@ -114,7 +114,7 @@ body {
 }
 
 .soft-skills-item {
-  color: #ff6b08;
+  color: rgba(14, 50, 253, 0.938);
   font-family: Montserrat;
   font-size: 14px;
   font-weight: 400;
@@ -197,7 +197,7 @@ body {
 }
 
 .company-name {
-  color: #ff6c09;
+  color: rgba(14, 50, 253, 0.938);
 }
 
 .work-info-item {
@@ -235,7 +235,7 @@ body {
 
 .education-name {
   margin-top: 20px;
-  color: #ff6b08;
+  color: rgba(14, 50, 253, 0.938);
   font-size: 16px;
   font-weight: 700;
   line-height: 24px;
