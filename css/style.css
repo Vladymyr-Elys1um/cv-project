@@ -71,6 +71,9 @@ body {
   line-height: 24px;
   margin-right: 10px;
 }
+.contacts-link:hover {
+  color: rgba(14, 50, 253, 0.938);
+}
 
 .tech-skills-title {
   color: #ffffff;
@@ -137,6 +140,11 @@ body {
   font-size: 45px;
   font-weight: 700;
   line-height: 89px;
+  font-family: "Satisfy", cursive;
+}
+
+.name:hover {
+  color: rgba(14, 50, 253, 0.938);
 }
 
 .goal-container {
@@ -160,6 +168,10 @@ body {
   font-size: 14px;
   font-weight: 400;
   line-height: 24px;
+}
+
+.about-me-link:hover {
+  color: rgba(14, 50, 253, 0.938);
 }
 
 .link-name {
